@@ -4,7 +4,7 @@ To design and simulate a Verilog HDL for Traffic Light Controler
 
 # Apparatus Required
 Vivado 2023.1
-Spartan 7 FPGA
+Spartan 7 FPGA 
 # Procedure
 1. Launch Vivado 2023.1
 Open Vivado 2023.1 and create a new project.
